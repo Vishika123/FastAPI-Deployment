@@ -1,0 +1,8 @@
+step 1: installed 
+1. fastapi
+2. uvicorn
+3. python-dotenv
+
+step 2: pip freeze > requirements.txt
+this will give you a requirement.txt file which will show all the packages we installed and some additonals
+This is very importan for production
